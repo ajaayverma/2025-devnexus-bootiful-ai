@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ajaayverma-2025-devnexus-bootiful-ai-badge.png)](https://mseep.ai/app/ajaayverma-2025-devnexus-bootiful-ai)
+
 # Dog Adoption Assistant
 
 ## script
